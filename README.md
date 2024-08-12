@@ -19,5 +19,5 @@
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/zouheir411/PingSweep
+   git clone https://github.com/zouheir411/PingSweep.git
    cd PingSweep
